@@ -1,0 +1,7 @@
+flask==3.0.3
+paho-mqtt==2.1.0
+pymongo==4.8.0
+ultralytics==8.2.103
+pillow==10.4.0
+numpy==1.26.4
+ncnn==1.0.20240823
