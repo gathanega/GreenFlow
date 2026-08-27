@@ -1,0 +1,6 @@
+{"NamaProject"} : {"GreenFlow : Integrating Machine Learning and Smart Solar Panels for Adaptive Traffic Control"};
+{"ModulPython"} :{"yolov8n_ncnn_model"};
+{"ServerPython"} : {"Virtual Private Server"};
+{"Database"} :{"MongoDB"}
+{"Hardware"} : {"ESP32-CAM","ESP32C6","BREADBOARD","LEDLIGHT","BUZZER"}
+
